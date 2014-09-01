@@ -14,8 +14,6 @@
 		<?php require_once('gallery.php') ?>
 		<?php require_once('galleryTwo.php') ?>
 		<?php require_once('galleryThree.php') ?>
-
-
 	</div>
 </div>
 </div>
