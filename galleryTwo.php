@@ -156,17 +156,18 @@
 		<img src="images/booktwo/026.jpg" alt="booktwo">
 	</a>
 </div>
+<!-- UPDATE ADDED 2 pics 8/1/14 start -->
+<div class="box item booktwo isotope-item">
+	<a href="images/booktwo/8-1-a.jpg" class="swipebox-isotope" title="Book II">
+		<img src="images/booktwo/8-1-a.jpg" alt="booktwo">
+	</a>
+</div>
+<div class="box item booktwo isotope-item">
+	<a href="images/booktwo/8-1-b.jpg" class="swipebox-isotope" title="Book II">
+		<img src="images/booktwo/8-1-b.jpg" alt="booktwo">
+	</a>
+</div>
 <!-- UPDATE ADDED 2 pics 8/1/14 END -->
-<div class="box item booktwo isotope-item">
-	<a href="images/booktwo/Large_X_Large_WRTW_1066796716_EDITORIAL_016-8-1-a.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/booktwo/Large_X_Large_WRTW_1066796716_EDITORIAL_016-8-1-a.jpg" alt="booktwo">
-	</a>
-</div>
-<div class="box item booktwo isotope-item">
-	<a href="images/booktwo/Cover_Up_WRTW_1066796939_EDITORIAL_012-8-1-b.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/booktwo/Cover_Up_WRTW_1066796939_EDITORIAL_012-8-1-b.jpg" alt="booktwo">
-	</a>
-</div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/027.jpg" class="swipebox-isotope" title="Book II">
 		<img src="images/booktwo/027.jpg" alt="booktwo">
