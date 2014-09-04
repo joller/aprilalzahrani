@@ -1,94 +1,94 @@
 
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/01.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/01.jpg" alt="booktwo">
+		<img src="images/booktwo/small/01.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="/images/booktwo/02.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/02.jpg" alt="booktwo">
+		<img src="images/booktwo/small/02.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/03.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/03.jpg" alt="booktwo">
+		<img src="images/booktwo/small/03.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/04.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/04.jpg" alt="booktwo">
+		<img src="images/booktwo/small/04.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/05.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/05.jpg" alt="booktwo">
+		<img src="images/booktwo/small/05.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/06.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/06.jpg" alt="booktwo">
+		<img src="images/booktwo/small/06.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/07.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/07.jpg" alt="booktwo">
+		<img src="images/booktwo/small/07.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/08.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/08.jpg" alt="booktwo">
+		<img src="images/booktwo/small/08.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/09.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/09.jpg" alt="booktwo">
+		<img src="images/booktwo/small/09.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/010.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/010.jpg" alt="booktwo">
+		<img src="images/booktwo/small/010.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/011.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/011.jpg" alt="booktwo">
+		<img src="images/booktwo/small/011.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/012.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/012.jpg" alt="booktwo">
+		<img src="images/booktwo/small/012.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/013.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/013.jpg" alt="booktwo">
+		<img src="images/booktwo/small/013.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/014.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/014.jpg" alt="booktwo">
+		<img src="images/booktwo/small/014.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/015.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/015.jpg" alt="booktwo">
+		<img src="images/booktwo/small/015.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/016.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/016.jpg" alt="booktwo">
+		<img src="images/booktwo/small/016.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/017.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/017.jpg" alt="booktwo">
+		<img src="images/booktwo/small/017.jpg" alt="booktwo">
 	</a>
 </div>
 
 
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/018.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/018.jpg" alt="booktwo">
+		<img src="images/booktwo/small/018.jpg" alt="booktwo">
 	</a>
 </div>
 <!-- UPDATE 04/21/14 START -->
@@ -118,115 +118,115 @@
 
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/019.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/019.jpg" alt="booktwo">
+		<img src="images/booktwo/small/019.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/020.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/020.jpg" alt="booktwo">
+		<img src="images/booktwo/small/020.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/021.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/021.jpg" alt="booktwo">
+		<img src="images/booktwo/small/021.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/022.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/022.jpg" alt="booktwo">
+		<img src="images/booktwo/small/022.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/023.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/023.jpg" alt="booktwo">
+		<img src="images/booktwo/small/023.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/024.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/024.jpg" alt="booktwo">
+		<img src="images/booktwo/small/024.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/025.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/025.jpg" alt="booktwo">
+		<img src="images/booktwo/small/025.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/026.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/026.jpg" alt="booktwo">
+		<img src="images/booktwo/small/026.jpg" alt="booktwo">
 	</a>
 </div>
 <!-- UPDATE ADDED 2 pics 8/1/14 sta<rt></rt> -->
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/8-1-a.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/8-1-a.jpg" alt="booktwo">
+		<img src="images/booktwo/small/8-1-a.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/8-1-b.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/8-1-b.jpg" alt="booktwo">
+		<img src="images/booktwo/small/8-1-b.jpg" alt="booktwo">
 	</a>
 </div>
 <!-- UPDATE ADDED 2 pics 8/1/14 END -->
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/027.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/027.jpg" alt="booktwo">
+		<img src="images/booktwo/small/027.jpg" alt="booktwo">
 	</a>
 </div>
 
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/028.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/028.jpg" alt="booktwo">
+		<img src="images/booktwo/small/028.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/029.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/029.jpg" alt="booktwo">
+		<img src="images/booktwo/small/029.jpg" alt="booktwo">
 	</a>
 </div>
 
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/030.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/030.jpg" alt="booktwo">
+		<img src="images/booktwo/small/030.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo isotope-item">
 	<a href="images/booktwo/031.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/031.jpg" alt="booktwo">
+		<img src="images/booktwo/small/031.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/032.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/032.jpg" alt="booktwo">
+		<img src="images/booktwo/small/032.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/033.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/033.jpg" alt="booktwo">
+		<img src="images/booktwo/small/033.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/034.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/034.jpg" alt="booktwo">
+		<img src="images/booktwo/small/034.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/035.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/035.jpg" alt="booktwo">
+		<img src="images/booktwo/small/035.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/036.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/036.jpg" alt="booktwo">
+		<img src="images/booktwo/small/036.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/037.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/037.jpg" alt="booktwo">
+		<img src="images/booktwo/small/037.jpg" alt="booktwo">
 	</a>
 </div>
 <div class="box item booktwo  isotope-item">
 	<a href="images/booktwo/038.jpg" class="swipebox-isotope" title="Book II">
-		<img src="images/small/booktwo/038.jpg" alt="booktwo">
+		<img src="images/booktwo/small/038.jpg" alt="booktwo">
 	</a>
 </div>
