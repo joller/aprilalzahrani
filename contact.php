@@ -9,9 +9,9 @@
 		<div class="contact">
 			<address>
 				<h4>E-Mail</h4>
-				<a href='mailto:april.alzahrani@yahoo.com'>april.alzahrani@yahoo.com</a> 
-				<h4>Phone</h4>
-				<a class="number" href="tel:(609) 992-8478">609.992.8478</a>
+				<a href='mailto:april.alzahrani@yahoo.com'>april.alzahrani@yahoo.com</a>
+				<!-- <h4>Phone</h4>
+				<a class="number" href="tel:(609) 992-8478">609.992.8478</a> -->
 			</address>
 		</div>
 
