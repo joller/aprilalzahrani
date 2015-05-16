@@ -1,5 +1,5 @@
 <?php require_once('_html_head.php') ?>
-<!-- <div class="contact"><a href='/contact.php'>Contact</a></div> -->
+<div class="contact"><a href='/contact.php'>Contact</a></div>
 <?php require_once('header.php') ?>
 </div>
 <!-- <div class="wrap">
