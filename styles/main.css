@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:300,200);
+body {
+  background: #272F32;
+  color: #f2f2f2;
+  font-family: 'Lato', Sans-Serif, Helvetica, Arial;
+  padding: 0;
+  margin: 0; }
+  body * {
+    padding: 0;
+    margin: 0; }
+  body a {
+    color: #FFF;
+    border: 1px solid #f2f2f2;
+    text-decoration: none;
+    padding: 0.5em 2.5em;
+    border-radius: 3px;
+    text-transform: uppercase;
+    transition: all 0.33s ease-in-out; }
+    body a:hover {
+      border: 1px solid #f60a20;
+      color: #f60a20; }
+  body h1,
+  body h2,
+  body h3,
+  body h4,
+  body h5,
+  body h6 {
+    font-family: 'Raleway', Sans-Serif, Helvetica, Arial;
+    font-weight: 200; }
+  body h1 {
+    font-size: 1.5em;
+    margin: 0.6em 0; }
+    @media (min-width: 600px) {
+      body h1 {
+        font-size: 3em;
+        margin: 1em 0; } }
+  body .address {
+    font-style: normal;
+    text-align: center;
+    margin: 3em auto; }
+    body .address a {
+      font-family: 'Raleway', Sans-Serif, Helvetica, Arial; }
+  body #main,
+  body header {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    display: block; }
+  body header h1 {
+    text-align: center; }
+  body #gallery div {
+    margin: 1em 0.6em; }
+    @media (min-width: 600px) {
+      body #gallery div {
+        margin: 6em 3em; } }
+    body #gallery div img {
+      max-width: 1100px;
+      width: 100%;
+      margin: auto;
+      display: block;
+      border-radius: 2px; }
+    body #gallery div:first-child {
+      margin: 0 0.6em 1em 0.6em; }
+    body #gallery div:last-child {
+      margin: 1em 0.6em 0 0.6em; }
+
+/*# sourceMappingURL=main.css.map */

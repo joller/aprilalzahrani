@@ -1,0 +1,14 @@
+@mixin bp($point){
+	@if $point == alfa {
+		@media (min-width: 600px){@content;}
+	}
+	@else if $point == beta {
+		@media (min-width: 1250px){@content;}
+	}
+	@else if $point== gamma {
+		@media (min-width: 1600px){@content;}
+	}
+}
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,700),
+		  url(http://fonts.googleapis.com/css?family=Raleway:300,200),
+		  '_base.scss';
