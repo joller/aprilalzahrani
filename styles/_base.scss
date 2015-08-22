@@ -62,22 +62,28 @@ body {
   #gallery {
     div {
 		margin: 1em 0.6em;
-		@include bp(alfa) {
-      	margin: 6em 3em;
-		}
-      img {
-        max-width: 1100px;
-        width: 100%;
-        margin: auto;
-        display: block;
-		  border-radius: 2px;
-      }
 		&:first-child {
 			margin: 0 0.6em 1em 0.6em;
 		}
 		&:last-child {
 			margin: 1em 0.6em 0 0.6em;
 		}
+		@include bp(alfa) {
+      	margin: 3em;
+			&:first-child {
+				margin: 0 3em 3em 3em;
+			}
+			&:last-child {
+				margin: 3em 3em 0 3em;
+			}
+		}
+      img {
+        max-width: 1000px;
+        width: 100%;
+        margin: auto;
+        display: block;
+		  border-radius: 2px;
+      }
     }
   }
 }

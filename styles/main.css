@@ -51,18 +51,22 @@ body {
     text-align: center; }
   body #gallery div {
     margin: 1em 0.6em; }
-    @media (min-width: 600px) {
-      body #gallery div {
-        margin: 6em 3em; } }
-    body #gallery div img {
-      max-width: 1100px;
-      width: 100%;
-      margin: auto;
-      display: block;
-      border-radius: 2px; }
     body #gallery div:first-child {
       margin: 0 0.6em 1em 0.6em; }
     body #gallery div:last-child {
       margin: 1em 0.6em 0 0.6em; }
+    @media (min-width: 600px) {
+      body #gallery div {
+        margin: 3em; }
+        body #gallery div:first-child {
+          margin: 0 3em 3em 3em; }
+        body #gallery div:last-child {
+          margin: 3em 3em 0 3em; } }
+    body #gallery div img {
+      max-width: 1000px;
+      width: 100%;
+      margin: auto;
+      display: block;
+      border-radius: 2px; }
 
 /*# sourceMappingURL=main.css.map */
