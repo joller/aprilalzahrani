@@ -16,7 +16,9 @@ body {
     padding: 0.5em 2.5em;
     border-radius: 3px;
     text-transform: uppercase;
-    transition: all 0.33s ease-in-out; }
+    transition: all 0.33s ease-in-out;
+    -webkit-transition: all 0.33s ease-in-out;
+    -moz-transition: all 0.33s ease-in-out; }
     body a:hover {
       border: 1px solid #f60a20;
       color: #f60a20; }
