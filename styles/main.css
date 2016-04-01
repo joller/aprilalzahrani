@@ -1,103 +1,117 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(http://fonts.googleapis.com/css?family=Raleway:300,200);
 @import url(http://fonts.googleapis.com/css?family=Poiret+One);
-body {
+body,
+html {
   background: #272f32;
   color: #f2f2f2;
   font-family: 'Lato', Sans-Serif, Helvetica, Arial;
   padding: 0;
-  margin: 0; }
-  body * {
+  margin: 0;
+  font-size: 12px;
+  line-height: 12px; }
+  body *,
+  html * {
     padding: 0;
-    margin: 0; }
-  body a {
+    margin: 0;
+    box-sizing: border-box; }
+  body a,
+  html a {
     color: #fff;
-    border: 1px solid #f2f2f2;
+    border: 0.1rem solid #f2f2f2;
     text-decoration: none;
-    padding: 0.5em 2.5em;
-    border-radius: 3px;
+    padding: 1rem 6rem;
+    border-radius: 29rem;
     text-transform: uppercase;
     transition: all 0.33s ease-in-out;
     -webkit-transition: all 0.33s ease-in-out;
     -moz-transition: all 0.33s ease-in-out; }
-    body a:hover {
-      border: 1px solid #f60a20;
-      color: #f60a20; }
+    body a:hover,
+    html a:hover {
+      border: 1px solid #0AD2B9;
+      color: #0AD2B9; }
   body h1,
   body h2,
   body h3,
   body h4,
   body h5,
-  body h6 {
+  body h6,
+  html h1,
+  html h2,
+  html h3,
+  html h4,
+  html h5,
+  html h6 {
     font-family: 'Raleway', Sans-Serif, Helvetica, Arial;
     font-weight: 200; }
-  body h1 {
-    font-size: 1.5em;
-    margin: 0.6em 0 0; }
-    @media (min-width: 600px) {
-      body h1 {
-        font-size: 3em;
-        margin: 1em 0 0; } }
-    body h1.sub {
-      font-size: 0.92em;
-      margin: -0.1em 0 0em;
+  body h1,
+  html h1 {
+    font-size: 3rem;
+    line-height: 3.5rem; }
+    body h1.sub,
+    html h1.sub {
+      font-size: 2rem;
+      letter-spacing: 0.2rem;
+      margin: 0 auto;
       font-family: 'Poiret One', cursive;
       color: #808080; }
-      @media (min-width: 600px) {
-        body h1.sub {
-          font-size: 1.2em;
-          margin: -0.17em 0 0em; } }
-  body .contact {
-    font-size: 0.6em;
-    padding: 1em;
+  body .contact,
+  html .contact {
+    font-size: 0.9rem;
     color: #747575;
     text-align: center; }
-    body .contact a {
+    body .contact a,
+    html .contact a {
       color: #747575;
-      padding: 0 0.6em;
+      padding: 0 0.6rem;
       border: 0 solid transparent;
       text-transform: none;
       font-weight: 900; }
-      body .contact a:hover {
-        color: #f60a20; }
-    body .contact .icon:before {
-      font-size: 1.6em;
-      vertical-align: bottom;
-      line-height: 0.78em; }
-  body .address {
+      body .contact a:hover,
+      html .contact a:hover {
+        color: #0AD2B9; }
+    body .contact .icon:before,
+    html .contact .icon:before {
+      font-size: 2rem;
+      line-height: 2rem;
+      vertical-align: middle; }
+  body .address,
+  html .address {
     font-style: normal;
     text-align: center;
-    margin: 3em auto; }
-    body .address a {
+    margin: 3rem auto; }
+    body .address a,
+    html .address a {
       font-family: 'Raleway', Sans-Serif, Helvetica, Arial; }
   body #main,
-  body header {
+  body header,
+  html #main,
+  html header {
     width: 100%;
-    max-width: 1600px;
+    max-width: 132rem;
     margin: 0 auto;
     display: block; }
-  body header {
-    margin-bottom: 2.3em; }
-    body header h1 {
+  body header,
+  html header {
+    padding: 6rem 1.5rem; }
+    body header h1,
+    html header h1 {
       text-align: center; }
-  body #gallery div {
-    margin: 1em 0.6em; }
-    body #gallery div:first-child {
-      margin: 0 0.6em 1em; }
-    body #gallery div:last-child {
-      margin: 1em 0.6em 0; }
-    @media (min-width: 600px) {
-      body #gallery div {
-        margin: 3em; }
-        body #gallery div:first-child {
-          margin: 0 3em 3em; }
-        body #gallery div:last-child {
-          margin: 3em 3em 0; } }
-    body #gallery div img {
-      max-width: 1000px;
+  body #gallery div,
+  html #gallery div {
+    margin: 1.5rem; }
+    body #gallery div:first-of-type,
+    html #gallery div:first-of-type {
+      margin-top: 0; }
+    body #gallery div:last-of-type,
+    html #gallery div:last-of-type {
+      margin-bottom: 0; }
+    body #gallery div img,
+    html #gallery div img {
+      max-width: 82rem;
       width: 100%;
       margin: auto;
       display: block;
-      border-radius: 2px; }
+      border-radius: 0.2rem; }
 
 /*# sourceMappingURL=main.css.map */
